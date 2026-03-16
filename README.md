@@ -18,10 +18,6 @@
 
 <br/>
 
-<!-- Profile Photo -->
-<img src="https://github.com/kipyegonk.png" width="120" style="border-radius:50%; border: 3px solid #3B82F6;" />
-
-<br/><br/>
 
 </div>
 
