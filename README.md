@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+PHP+%2B+React+%2B+Python;Network+Engineer+%7C+SD-WAN+%7C+VoIP+%7C+Azure;Building+scalable+systems+%26+secure+networks;Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA+%7C+Open+to+Collaborate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+PHP+%2B+React+%2B+Python;Flutter+%7C+API+Design+%26+Integration+%7C+CI%2FCD;Network+Engineer+%7C+SD-WAN+%7C+VoIP+%7C+Azure;Customized+Network+%26+Security+Solutions;Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA+%7C+Open+to+Collaborate" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,23 +24,20 @@
 
 ## 🧠 About Me
 
-```python
-developer = {
-    "name"          : "Kevin Kipyegon Langat",
-    "location"      : "Nairobi, Kenya 🇰🇪",
-    "roles"         : ["Software Developer", "Network Engineer", "ICT Solutions Specialist"],
-    "education"     : "BSc. Information Technology — Kabarak University (2022)",
-    "specialties"   : [
-        "Full-Stack Web Development",
-        "Network Infrastructure & SD-WAN",
-        "Disease Surveillance Systems",
-        "Cloud & Virtualization (Azure)",
-        "Security Systems (CCTV, Biometrics, VoIP)"
-    ],
-    "currently"     : "Building scalable systems @ zendawa-africa",
-    "contact"       : "kevinlangat008@gmail.com"
-}
-```
+**Kevin Kipyegon Langat** — Software Developer & Network Engineer based in **Nairobi, Kenya 🇰🇪**
+
+With a **BSc. in Information Technology from Kabarak University (2022)**, I bring dual specialization across software engineering and network infrastructure — delivering integrated technology solutions that drive real efficiency.
+
+**What I do:**
+
+- 🖥️ **Full-Stack Development** — React, PHP, Python, Flutter, Node.js, Laravel & Django
+- 📱 **Mobile Development** — Cross-platform apps with Flutter
+- 🔌 **API Design & Integration** — RESTful APIs, third-party service integration & microservices
+- 🚀 **CI/CD Pipelines** — Automated build, test & deployment workflows
+- 🌐 **Network Solutions** — Designing and implementing customized network infrastructure tailored to business needs
+- 🖧 **Virtualized Server Environments** — Managing and optimizing VM-based infrastructure
+- 🔒 **Advanced Security Systems** — CCTV surveillance, biometric access control & VoIP (3CX) deployments
+- ☁️ **Cloud & Azure** — Infrastructure provisioning, SD-WAN and DevOps integration
 
 > *"Dual specialization in software & networking — delivering integrated technology solutions that drive efficiency."*
 
@@ -48,32 +45,36 @@ developer = {
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
+### 🌐 Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend
+### ⚙️ Backend & APIs
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🗄️ Database & Cloud
+### 🗄️ Database, Cloud & DevOps
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### 🌐 Networking & Security
 ![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![3CX](https://img.shields.io/badge/3CX_VoIP-0B5FFF?style=for-the-badge&logo=voip&logoColor=white)
 ![SD-WAN](https://img.shields.io/badge/SD--WAN-FF6B35?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![CCTV](https://img.shields.io/badge/CCTV_%26_Biometrics-333333?style=for-the-badge&logo=security&logoColor=white)
 
 ---
 
@@ -153,9 +154,11 @@ developer = {
 ## 🌱 Currently
 
 - 🔭 Building the **Zen Dawa** healthcare portal with [@zendawa-africa](https://github.com/zendawa-africa)
-- 📡 Expanding cloud expertise in **Azure & DevOps pipelines**
+- 📱 Developing cross-platform mobile apps with **Flutter**
+- 📡 Expanding cloud expertise in **Azure & DevOps / CI/CD pipelines**
+- 🔌 Designing & deploying **customized network solutions** and **virtualized server environments**
 - 🤝 Open to collaborations on **health-tech, fintech & open-source** projects
-- 💬 Ask me about **PHP, React, Network Infrastructure, or VoIP (3CX)**
+- 💬 Ask me about **PHP, React, Flutter, API Integration, Network Infrastructure, or VoIP (3CX)**
 
 ---
 
