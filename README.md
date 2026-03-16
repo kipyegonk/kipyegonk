@@ -16,17 +16,22 @@
 [![Email](https://img.shields.io/badge/Email-kevinlangat008%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinlangat008@gmail.com)
 [![Phone](https://img.shields.io/badge/WhatsApp-+254%20111%20790%20013-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254707622457)
 
+<br/>
+
+<!-- Profile Photo -->
+<img src="https://github.com/kipyegonk.png" width="120" style="border-radius:50%; border: 3px solid #3B82F6;" />
+
 <br/><br/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About Me
 
 **Kevin Kipyegon Langat** — Software Developer & Network Engineer based in **Nairobi, Kenya 🇰🇪**
 
-With a **BSc. in Information Technology from Kabarak University (2022)**, I bring dual specialization across software engineering and network infrastructure — delivering integrated technology solutions that drive real efficiency.
+With a **BSc. in Information Technology from Kabarak University **, I bring dual specialization across software engineering and network infrastructure — delivering integrated technology solutions that drive real efficiency.
 
 **What I do:**
 
@@ -43,7 +48,7 @@ With a **BSc. in Information Technology from Kabarak University (2022)**, I brin
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### 🌐 Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -78,7 +83,7 @@ With a **BSc. in Information Technology from Kabarak University (2022)**, I brin
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -93,7 +98,7 @@ With a **BSc. in Information Technology from Kabarak University (2022)**, I brin
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -109,7 +114,7 @@ With a **BSc. in Information Technology from Kabarak University (2022)**, I brin
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
 <div align="center">
 
@@ -130,7 +135,7 @@ With a **BSc. in Information Technology from Kabarak University (2022)**, I brin
 
 ---
 
-## 📊 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -140,7 +145,7 @@ With a **BSc. in Information Technology from Kabarak University (2022)**, I brin
 
 ---
 
-## 💼 Work Timeline
+## Work Timeline
 
 ```
 🏢 Learnsoft Limited       [Nov 2024 – Feb 2025]  → Software Developer
@@ -151,7 +156,7 @@ With a **BSc. in Information Technology from Kabarak University (2022)**, I brin
 
 ---
 
-## 🌱 Currently
+## Currently
 
 - 🔭 Building the **Zen Dawa** healthcare portal with [@zendawa-africa](https://github.com/zendawa-africa)
 - 📱 Developing cross-platform mobile apps with **Flutter**
@@ -170,6 +175,6 @@ With a **BSc. in Information Technology from Kabarak University (2022)**, I brin
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=kipyegonk&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
 
-**Thanks for visiting! Let's build and secure the future together. 🚀🔐**
+**Thanks for visiting! Let's build and secure the future together. **
 
 </div>
