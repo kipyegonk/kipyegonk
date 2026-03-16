@@ -27,7 +27,7 @@
 
 **Kevin Kipyegon Langat** — Software Developer & Network Engineer based in **Nairobi, Kenya 🇰🇪**
 
-With a **BSc. in Information Technology from Kabarak University **, I bring dual specialization across software engineering and network infrastructure — delivering integrated technology solutions that drive real efficiency.
+With a **BSc. in Information Technology from Kabarak University**, I bring dual specialization across software engineering and network infrastructure — delivering integrated technology solutions that drive real efficiency.
 
 **What I do:**
 
