@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Langat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-kipyegon-langat)
 [![Portfolio](https://img.shields.io/badge/Portfolio-React%20Site-3B82F6?style=for-the-badge&logo=github&logoColor=white)](https://kipyegonk.github.io/React-Portfolio)
 [![Email](https://img.shields.io/badge/Email-kevinlangat008%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinlangat008@gmail.com)
-[![Phone](https://img.shields.io/badge/WhatsApp-+254%20707%20622%20457-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254707622457)
+[![Phone](https://img.shields.io/badge/WhatsApp-+254%20111%20790%20013-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254707622457)
 
 <br/><br/>
 
