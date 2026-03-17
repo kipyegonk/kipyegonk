@@ -11,13 +11,11 @@
 <br/>
 
 <!-- Contact Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Langat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-kipyegon-langat)
-[![Portfolio](https://img.shields.io/badge/Portfolio-React%20Site-3B82F6?style=for-the-badge&logo=github&logoColor=white)](https://kipyegonk.github.io/React-Portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Langat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-kipyegon/)
 [![Email](https://img.shields.io/badge/Email-kevinlangat008%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinlangat008@gmail.com)
 [![Phone](https://img.shields.io/badge/WhatsApp-+254%20111%20790%20013-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254707622457)
 
-<br/>
-
+<br/><br/>
 
 </div>
 
@@ -110,27 +108,6 @@ With a **BSc. in Information Technology from Kabarak University**, I bring dual 
 
 ---
 
-## Certifications
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kipyegonk&theme=tokyonight&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-| Certification | Issuer | Year |
-|--------------|--------|------|
-| 🏅 Certified 3CX Engineer | 3CX | 2026 |
-| 🛡️ Network Defense | Cisco Networking Academy | 2026 |
-| 🔐 Network Support & Security | Cisco Networking Academy | 2026 |
-| 📊 Data Analytics | ICT Authority | 2025 |
-| 🤖 Foundational AI Training | ICT Authority | 2025 |
-| 🔒 Cybersecurity & Emerging Technologies | ICT Authority | 2025 |
-| 🧱 CISCO CCNA 1–3 | Cisco | 2023 |
-| 🏥 CHT Apps Engineer | Medic (CHT Academy) | 2023 |
-
----
-
 ## Contribution Activity
 
 <div align="center">
@@ -154,12 +131,12 @@ With a **BSc. in Information Technology from Kabarak University**, I bring dual 
 
 ## Currently
 
-- 🔭 Building the **Zen Dawa** healthcare portal with [@zendawa-africa](https://github.com/zendawa-africa)
+- 🔭 Building a healthcare portal
 - 📱 Developing cross-platform mobile apps with **Flutter**
 - 📡 Expanding cloud expertise in **Azure & DevOps / CI/CD pipelines**
 - 🔌 Designing & deploying **customized network solutions** and **virtualized server environments**
 - 🤝 Open to collaborations on **health-tech, fintech & open-source** projects
-- 💬 Ask me about **PHP, React, Flutter, API Integration, Network Infrastructure, or VoIP (3CX)**
+- 💬 Ask me about **PHP, React, Flutter, API Integration, Network Infrastructure, or VoIP**
 
 ---
 
@@ -171,6 +148,6 @@ With a **BSc. in Information Technology from Kabarak University**, I bring dual 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=kipyegonk&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
 
-**Thanks for visiting! Let's build and secure the future together. **
+**Thanks for visiting! Let's build and secure the future together.**
 
 </div>
