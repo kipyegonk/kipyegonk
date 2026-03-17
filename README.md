@@ -29,14 +29,14 @@ With a **BSc. in Information Technology from Kabarak University**, I bring dual 
 
 **What I do:**
 
-- 🖥️ **Full-Stack Development** — React, PHP, Python, Flutter, Node.js, Laravel & Django
-- 📱 **Mobile Development** — Cross-platform apps with Flutter
-- 🔌 **API Design & Integration** — RESTful APIs, third-party service integration & microservices
-- 🚀 **CI/CD Pipelines** — Automated build, test & deployment workflows
-- 🌐 **Network Solutions** — Designing and implementing customized network infrastructure tailored to business needs
-- 🖧 **Virtualized Server Environments** — Managing and optimizing VM-based infrastructure
-- 🔒 **Advanced Security Systems** — CCTV surveillance, biometric access control & VoIP (3CX) deployments
-- ☁️ **Cloud & Azure** — Infrastructure provisioning, SD-WAN and DevOps integration
+-  **Full-Stack Development** — React, PHP, Python, Flutter, Node.js, Laravel & Django
+-  **Mobile Development** — Cross-platform apps with Flutter
+-  **API Design & Integration** — RESTful APIs, third-party service integration & microservices
+-  **CI/CD Pipelines** — Automated build, test & deployment workflows
+-  **Network Solutions** — Designing and implementing customized network infrastructure tailored to business needs
+-  **Virtualized Server Environments** — Managing and optimizing VM-based infrastructure
+-  **Advanced Security Systems** — CCTV surveillance, biometric access control & VoIP (3CX) deployments
+-  **Cloud & Azure** — Infrastructure provisioning, SD-WAN and DevOps integration
 
 > *"Dual specialization in software & networking — delivering integrated technology solutions that drive efficiency."*
 
@@ -44,7 +44,7 @@ With a **BSc. in Information Technology from Kabarak University**, I bring dual 
 
 ## Tech Stack
 
-### 🌐 Frontend & Mobile
+###  Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -52,7 +52,7 @@ With a **BSc. in Information Technology from Kabarak University**, I bring dual 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend & APIs
+###  Backend & APIs
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -60,7 +60,7 @@ With a **BSc. in Information Technology from Kabarak University**, I bring dual 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🗄️ Database, Cloud & DevOps
+###  Database, Cloud & DevOps
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -68,7 +68,7 @@ With a **BSc. in Information Technology from Kabarak University**, I bring dual 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 🌐 Networking & Security
+###  Networking & Security
 ![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![3CX](https://img.shields.io/badge/3CX_VoIP-0B5FFF?style=for-the-badge&logo=voip&logoColor=white)
 ![SD-WAN](https://img.shields.io/badge/SD--WAN-FF6B35?style=for-the-badge&logo=cloudflare&logoColor=white)
@@ -96,15 +96,15 @@ With a **BSc. in Information Technology from Kabarak University**, I bring dual 
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🏥 Disease Surveillance](https://github.com/Brink-Innovation/disease-surveillance) | Cholera surveillance system with CHT-core, multi-language support & health data analytics | CHT, JSON, XLS Forms |
-| [💊 Zen Dawa Portal](https://github.com/zendawa-africa/zen-dawa-portal) | Healthcare/pharmacy portal for Africa | React, PHP |
-| [🛒 Complete E-Commerce](https://github.com/kipyegonk/Complete-Ecommerce) | Full-featured e-commerce platform | React, PHP, MySQL |
-| [🛒 Laravel E-Commerce](https://github.com/kipyegonk/Laravel-E-Commerce) | E-commerce built with Laravel | Laravel, MySQL |
-| [🐄 Soy Dairy App](https://github.com/kipyegonk/Soy-Dairy-App) | Dairy farm management system | React, API |
-| [💬 Chat App](https://github.com/kipyegonk/Chat-App) | Real-time messaging application | React, WebSocket |
-| [💰 Transaction Reconciliation](https://github.com/kipyegonk/Transaction-Reconciliation-Tool) | Financial reconciliation tool | JavaScript, PHP |
-| [🏫 School Website — Mazera](https://github.com/kipyegonk/School-website-Mazera) | Responsive school site (30% UX uplift) | React, CSS3 |
-| [🌐 React Portfolio](https://github.com/kipyegonk/React-Portfolio) | Personal portfolio website | React, SwiperJS |
+| [ Disease Surveillance](https://github.com/Brink-Innovation/disease-surveillance) | Cholera surveillance system with CHT-core, multi-language support & health data analytics | CHT, JSON, XLS Forms |
+| [ Zen Dawa Portal](https://github.com/zendawa-africa/zen-dawa-portal) | Healthcare/pharmacy portal for Africa | React, PHP |
+| [ Complete E-Commerce](https://github.com/kipyegonk/Complete-Ecommerce) | Full-featured e-commerce platform | React, PHP, MySQL |
+| [ Laravel E-Commerce](https://github.com/kipyegonk/Laravel-E-Commerce) | E-commerce built with Laravel | Laravel, MySQL |
+| [ Soy Dairy App](https://github.com/kipyegonk/Soy-Dairy-App) | Dairy farm management system | React, API |
+| [ Chat App](https://github.com/kipyegonk/Chat-App) | Real-time messaging application | React, WebSocket |
+| [ Transaction Reconciliation](https://github.com/kipyegonk/Transaction-Reconciliation-Tool) | Financial reconciliation tool | JavaScript, PHP |
+| [ School Website — Mazera](https://github.com/kipyegonk/School-website-Mazera) | Responsive school site (30% UX uplift) | React, CSS3 |
+| [ React Portfolio](https://github.com/kipyegonk/React-Portfolio) | Personal portfolio website | React, SwiperJS |
 
 ---
 
@@ -121,21 +121,21 @@ With a **BSc. in Information Technology from Kabarak University**, I bring dual 
 ## Work Timeline
 
 ```
-🏢 Learnsoft Limited       [Nov 2024 – Feb 2025]  → Software Developer
-🌐 Crystal Limited         [Aug 2023 – Dec 2024]  → Network Engineer
-💻 Brink Limited           [Mar 2022 – Aug 2023]  → Software Developer (Junior → Mid)
-🏭 KETEPA Limited          [Jan – Feb 2023]        → Industrial Attachment (Networking)
+ Learnsoft Limited       [Nov 2024 – Feb 2025]  → Software Developer
+ Crystal Limited         [Aug 2023 – Dec 2024]  → Network Engineer
+ Brink Limited           [Mar 2022 – Aug 2023]  → Software Developer (Junior → Mid)
+ KETEPA Limited          [Jan – Feb 2023]        → Industrial Attachment (Networking)
 ```
 
 ---
 
 ## Currently
 
-- 🔭 Building a healthcare portal
-- 📱 Developing cross-platform mobile apps with **Flutter**
-- 📡 Expanding cloud expertise in **Azure & DevOps / CI/CD pipelines**
-- 🔌 Designing & deploying **customized network solutions** and **virtualized server environments**
-- 🤝 Open to collaborations on **health-tech, fintech & open-source** projects
+-  Building a healthcare portal
+-  Developing cross-platform mobile apps with **Flutter**
+-  Expanding cloud expertise in **Azure & DevOps / CI/CD pipelines**
+-  Designing & deploying **customized network solutions** and **virtualized server environments**
+-  Open to collaborations on **health-tech, fintech & open-source** projects
 - 💬 Ask me about **PHP, React, Flutter, API Integration, Network Infrastructure, or VoIP**
 
 ---
