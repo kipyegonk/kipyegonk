@@ -108,16 +108,6 @@ With a **BSc. in Information Technology from Kabarak University**, I bring dual 
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-[![Kevin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kipyegonk&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## Work Timeline
 
 ```
